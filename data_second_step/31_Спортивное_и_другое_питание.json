@@ -1,0 +1,562 @@
+[
+    {
+        "Title": "Батончик Bombbar Кето Миндальная нуга с ванилью",
+        "Proteins": "\n20.0 ",
+        "Fats": "\n35.0 ",
+        "Ugl": "\n10.2 ",
+        "Kkal": "\n484 "
+    },
+    {
+        "Title": "Батончик Bombbar Кето Тропический кокос и миндаль",
+        "Proteins": "\n20.0 ",
+        "Fats": "\n35.0 ",
+        "Ugl": "\n10.0 ",
+        "Kkal": "\n484 "
+    },
+    {
+        "Title": "Батончик Bombbar Кето Шоколадное парфе с миндалем",
+        "Proteins": "\n20.0 ",
+        "Fats": "\n35.0 ",
+        "Ugl": "\n11.0 ",
+        "Kkal": "\n486 "
+    },
+    {
+        "Title": "Батончик Bombbar протеиновый Грецкий орех с медом",
+        "Proteins": "\n20.0 ",
+        "Fats": "\n6.3 ",
+        "Ugl": "\n2.2 ",
+        "Kkal": "\n148 "
+    },
+    {
+        "Title": "Батончик Bombbar протеиновый Датский бисквит",
+        "Proteins": "\n33.0 ",
+        "Fats": "\n8.5 ",
+        "Ugl": "\n8.0 ",
+        "Kkal": "\n292 "
+    },
+    {
+        "Title": "Батончик Bombbar протеиновый Шоколад",
+        "Proteins": "\n20.0 ",
+        "Fats": "\n5.7 ",
+        "Ugl": "\n6.1 ",
+        "Kkal": "\n156 "
+    },
+    {
+        "Title": "Батончик BSN Syntha-6 Decadence",
+        "Proteins": "\n31.6 ",
+        "Fats": "\n12.6 ",
+        "Ugl": "\n44.2 ",
+        "Kkal": "\n389 "
+    },
+    {
+        "Title": "Батончик Dymatize Elite XT Gourmet Protein Bar 42",
+        "Proteins": "\n35.3 ",
+        "Fats": "\n11.8 ",
+        "Ugl": "\n40.0 ",
+        "Kkal": "\n376 "
+    },
+    {
+        "Title": "Батончик Dymatize Elite XT Gourmet Protein Bar 85",
+        "Proteins": "\n37.6 ",
+        "Fats": "\n14.1 ",
+        "Ugl": "\n24.7 ",
+        "Kkal": "\n412 "
+    },
+    {
+        "Title": "Батончик Energy System Perform-Bar",
+        "Proteins": "\n10.0 ",
+        "Fats": "\n5.0 ",
+        "Ugl": "\n73.0 ",
+        "Kkal": "\n374 "
+    },
+    {
+        "Title": "Батончик FITKIT Extra Protein Bar Almond Latte (Миндальный Латте)",
+        "Proteins": "\n27.2 ",
+        "Fats": "\n12.7 ",
+        "Ugl": "\n27.2 ",
+        "Kkal": "\n327 "
+    },
+    {
+        "Title": "Батончик FITKIT Extra Protein Bar Banana Flambe (Банановый Фламбе)",
+        "Proteins": "\n27.2 ",
+        "Fats": "\n12.7 ",
+        "Ugl": "\n27.2 ",
+        "Kkal": "\n327 "
+    },
+    {
+        "Title": "Батончик FITKIT Extra Protein Bar Cherry Brownie (Вишневый Брауни)",
+        "Proteins": "\n27.2 ",
+        "Fats": "\n14.5 ",
+        "Ugl": "\n27.2 ",
+        "Kkal": "\n345 "
+    },
+    {
+        "Title": "Батончик FITKIT Extra Protein Bar Pina Colada (Пина Колада)",
+        "Proteins": "\n27.3 ",
+        "Fats": "\n12.7 ",
+        "Ugl": "\n27.3 ",
+        "Kkal": "\n327 "
+    },
+    {
+        "Title": "Батончик FITKIT Extra Protein Bar Triple Chocolate (Тройной Шоколад)",
+        "Proteins": "\n27.3 ",
+        "Fats": "\n14.5 ",
+        "Ugl": "\n27.3 ",
+        "Kkal": "\n345 "
+    },
+    {
+        "Title": "Батончик FITKIT Protein Bar Coconut Souffle (Кокосовое Суфле)",
+        "Proteins": "\n25.0 ",
+        "Fats": "\n7.2 ",
+        "Ugl": "\n20.0 ",
+        "Kkal": "\n265 "
+    },
+    {
+        "Title": "Батончик FITKIT Protein Bar Double Chocolate (Двойной Шоколад)",
+        "Proteins": "\n25.0 ",
+        "Fats": "\n7.5 ",
+        "Ugl": "\n20.0 ",
+        "Kkal": "\n268 "
+    },
+    {
+        "Title": "Батончик FITKIT Protein Bar Hazelnut-Chocolate (Шоколад-Фундук)",
+        "Proteins": "\n25.0 ",
+        "Fats": "\n7.5 ",
+        "Ugl": "\n20.0 ",
+        "Kkal": "\n268 "
+    },
+    {
+        "Title": "Батончик FITKIT Protein Bar Mango-Passion Fruit (Манго-Маракуйя)",
+        "Proteins": "\n25.0 ",
+        "Fats": "\n6.6 ",
+        "Ugl": "\n20.0 ",
+        "Kkal": "\n260 "
+    },
+    {
+        "Title": "Батончик FITKIT Protein Bar Mocaccino (Моккачино)",
+        "Proteins": "\n25.0 ",
+        "Fats": "\n7.5 ",
+        "Ugl": "\n20.0 ",
+        "Kkal": "\n268 "
+    },
+    {
+        "Title": "Батончик FITKIT Protein Bar Peanut Cake (Арахисовый Торт)",
+        "Proteins": "\n25.0 ",
+        "Fats": "\n7.0 ",
+        "Ugl": "\n20.0 ",
+        "Kkal": "\n263 "
+    },
+    {
+        "Title": "Батончик FITKIT Protein Bar Pistachio Ice Cream (Фисташковый Пломбир)",
+        "Proteins": "\n25.0 ",
+        "Fats": "\n6.7 ",
+        "Ugl": "\n20.0 ",
+        "Kkal": "\n260 "
+    },
+    {
+        "Title": "Батончик FITKIT Protein Bar Raspberry Cheesecake (Малиновый Чизкейк)",
+        "Proteins": "\n25.0 ",
+        "Fats": "\n6.6 ",
+        "Ugl": "\n20.0 ",
+        "Kkal": "\n260 "
+    },
+    {
+        "Title": "Батончик FITKIT Protein Bar Salted Caramel (Солёная Карамель)",
+        "Proteins": "\n25.0 ",
+        "Fats": "\n6.7 ",
+        "Ugl": "\n20.0 ",
+        "Kkal": "\n260 "
+    },
+    {
+        "Title": "Батончик FITKIT Protein Bar Strawberry Trifle (Клубничный Трайфл)",
+        "Proteins": "\n25.0 ",
+        "Fats": "\n6.6 ",
+        "Ugl": "\n20.0 ",
+        "Kkal": "\n260 "
+    },
+    {
+        "Title": "Батончик Herbalife Протеиновый",
+        "Proteins": "\n29.0 ",
+        "Fats": "\n8.6 ",
+        "Ugl": "\n46.0 ",
+        "Kkal": "\n383 "
+    },
+    {
+        "Title": "Батончик Herbalife Формула 1 Экспресс",
+        "Proteins": "\n23.7 ",
+        "Fats": "\n10.7 ",
+        "Ugl": "\n37.1 ",
+        "Kkal": "\n369 "
+    },
+    {
+        "Title": "Батончик Ironman Slim Bar протеиновый с L-карнитином",
+        "Proteins": "\n14.0 ",
+        "Fats": "\n8.0 ",
+        "Ugl": "\n48.0 ",
+        "Kkal": "\n320 "
+    },
+    {
+        "Title": "Батончик Multipower 32% Protein Pack",
+        "Proteins": "\n31.7 ",
+        "Fats": "\n11.0 ",
+        "Ugl": "\n45.0 ",
+        "Kkal": "\n407 "
+    },
+    {
+        "Title": "Батончик Multipower Crunch Fit",
+        "Proteins": "\n15.8 ",
+        "Fats": "\n14.7 ",
+        "Ugl": "\n55.6 ",
+        "Kkal": "\n419 "
+    },
+    {
+        "Title": "Батончик Multipower Energate!",
+        "Proteins": "\n20.0 ",
+        "Fats": "\n21.7 ",
+        "Ugl": "\n42.9 ",
+        "Kkal": "\n451 "
+    },
+    {
+        "Title": "Батончик Multipower L-Carnitine Bar",
+        "Proteins": "\n25.0 ",
+        "Fats": "\n8.6 ",
+        "Ugl": "\n38.0 ",
+        "Kkal": "\n348 "
+    },
+    {
+        "Title": "Батончик Multipower Power Pack",
+        "Proteins": "\n28.6 ",
+        "Fats": "\n10.6 ",
+        "Ugl": "\n45.7 ",
+        "Kkal": "\n389 "
+    },
+    {
+        "Title": "Батончик MyProtein My Bar Zero",
+        "Proteins": "\n31.0 ",
+        "Fats": "\n9.5 ",
+        "Ugl": "\n3.9 ",
+        "Kkal": "\n304 "
+    },
+    {
+        "Title": "Батончик Optimum 100% Whey Crisp Bar",
+        "Proteins": "\n37.1 ",
+        "Fats": "\n3.6 ",
+        "Ugl": "\n48.6 ",
+        "Kkal": "\n357 "
+    },
+    {
+        "Title": "Батончик Optimum Complete Protein Diet Bar",
+        "Proteins": "\n40.0 ",
+        "Fats": "\n6.0 ",
+        "Ugl": "\n36.0 ",
+        "Kkal": "\n360 "
+    },
+    {
+        "Title": "Батончик Optimum Optimal Protein Diet Bar",
+        "Proteins": "\n 40.0 ",
+        "Fats": "\n5.0 ",
+        "Ugl": "\n46.0 ",
+        "Kkal": "\n360 "
+    },
+    {
+        "Title": "Батончик Performance Bar",
+        "Proteins": "\n5.9 ",
+        "Fats": "\n19.3 ",
+        "Ugl": "\n60.4 ",
+        "Kkal": "\n439 "
+    },
+    {
+        "Title": "Батончик Power Pro с арахисом и карамелью с нугой",
+        "Proteins": "\n16.6 ",
+        "Fats": "\n18.6 ",
+        "Ugl": "\n15.6 ",
+        "Kkal": "\n350 "
+    },
+    {
+        "Title": "Батончик Quest Bar протеиновый Шоколад с фундуком",
+        "Proteins": "\n33.3 ",
+        "Fats": "\n13.3 ",
+        "Ugl": "\n6.6 ",
+        "Kkal": "\n317 "
+    },
+    {
+        "Title": "Батончик Rocket Energy с кокосом и шоколадом",
+        "Proteins": "\n5.9 ",
+        "Fats": "\n41.0 ",
+        "Ugl": "\n28.6 ",
+        "Kkal": "\n462 "
+    },
+    {
+        "Title": "Батончик Rocket Energy с чаем матча, кокосом и ананасом",
+        "Proteins": "\n3.5 ",
+        "Fats": "\n42.8 ",
+        "Ugl": "\n28.6 ",
+        "Kkal": "\n467 "
+    },
+    {
+        "Title": "Батончик Scitec Nutrition Jumbo Bar Double Chocolate Cookie",
+        "Proteins": "\n50.0 ",
+        "Fats": "\n8.2 ",
+        "Ugl": "\n26.0 ",
+        "Kkal": "\n378 "
+    },
+    {
+        "Title": "Батончик Леовит Худеем за неделю Мюсли Фенхель с зелёным чаем",
+        "Proteins": "\n4.2 ",
+        "Fats": "\n12.4 ",
+        "Ugl": "\n59.2 ",
+        "Kkal": "\n367 "
+    },
+    {
+        "Title": "Батончик Турбослим белковый для похудения",
+        "Proteins": "\n16.0 ",
+        "Fats": "\n8.0 ",
+        "Ugl": "\n18.0 ",
+        "Kkal": "\n220 "
+    },
+    {
+        "Title": "Батончик Ути-Booty протеиновый Кокосовый рай",
+        "Proteins": "\n33.3 ",
+        "Fats": "\n7.6 ",
+        "Ugl": "\n6.2 ",
+        "Kkal": "\n280 "
+    },
+    {
+        "Title": "Батончик Ути-Booty протеиновый Колумбийская кола",
+        "Proteins": "\n33.3 ",
+        "Fats": "\n7.5 ",
+        "Ugl": "\n6.3 ",
+        "Kkal": "\n278 "
+    },
+    {
+        "Title": "Батончик Ути-Booty протеиновый Шоколад-Мята",
+        "Proteins": "\n33.3 ",
+        "Fats": "\n7.1 ",
+        "Ugl": "\n5.8 ",
+        "Kkal": "\n273 "
+    },
+    {
+        "Title": "Борщ Леовит Худеем за неделю Сибирский с мясом",
+        "Proteins": "\n19.0 ",
+        "Fats": "\n3.5 ",
+        "Ugl": "\n48.0 ",
+        "Kkal": "\n300 "
+    },
+    {
+        "Title": "Вафли MyProtein Wafers",
+        "Proteins": "\n35.8 ",
+        "Fats": "\n21.5 ",
+        "Ugl": "\n31.0 ",
+        "Kkal": "\n466 "
+    },
+    {
+        "Title": "Гейнер BSN True-Mass",
+        "Proteins": "\n33.1 ",
+        "Fats": "\n11.0 ",
+        "Ugl": "\n45.5 ",
+        "Kkal": "\n434 "
+    },
+    {
+        "Title": "Гейнер BSN True-Mass 1200",
+        "Proteins": "\n16.1 ",
+        "Fats": "\n5.2 ",
+        "Ugl": "\n71.9 ",
+        "Kkal": "\n397 "
+    },
+    {
+        "Title": "Гейнер CytoSport Cyto Gainer",
+        "Proteins": "\n36.0 ",
+        "Fats": "\n3.0 ",
+        "Ugl": "\n49.3 ",
+        "Kkal": "\n367 "
+    },
+    {
+        "Title": "Гейнер CytoSport Monster Mass",
+        "Proteins": "\n33.3 ",
+        "Fats": "\n11.3 ",
+        "Ugl": "\n47.3 ",
+        "Kkal": "\n427 "
+    },
+    {
+        "Title": "Гейнер Dymatize Elite Mass Gainer",
+        "Proteins": "\n36.7 ",
+        "Fats": "\n4.0 ",
+        "Ugl": "\n51.3 ",
+        "Kkal": "\n400 "
+    },
+    {
+        "Title": "Гейнер Dymatize Elite Mega Gainer",
+        "Proteins": "\n21.4 ",
+        "Fats": "\n5.7 ",
+        "Ugl": "\n63.6 ",
+        "Kkal": "\n393 "
+    },
+    {
+        "Title": "Гейнер Dymatize Mega Gainer",
+        "Proteins": "\n24.0 ",
+        "Fats": "\n5.6 ",
+        "Ugl": "\n71.2 ",
+        "Kkal": "\n432 "
+    },
+    {
+        "Title": "Гейнер Dymatize Super Mass Gainer",
+        "Proteins": "\n15.6 ",
+        "Fats": "\n2.4 ",
+        "Ugl": "\n75.4 ",
+        "Kkal": "\n383 "
+    },
+    {
+        "Title": "Гейнер Gaspari Real Mass",
+        "Proteins": "\n15.4 ",
+        "Fats": "\n1.1 ",
+        "Ugl": "\n76.9 ",
+        "Kkal": "\n378 "
+    },
+    {
+        "Title": "Гейнер IronMaxx Titan V.2.0",
+        "Proteins": "\n24.3 ",
+        "Fats": "\n2.0 ",
+        "Ugl": "\n63.0 ",
+        "Kkal": "\n388 "
+    },
+    {
+        "Title": "Гейнер Max Power Big Muscle",
+        "Proteins": "\n13.9 ",
+        "Fats": "\n0.5 ",
+        "Ugl": "\n75.6 ",
+        "Kkal": "\n368 "
+    },
+    {
+        "Title": "Гейнер Muscletech 100% Premium Mass Gainer",
+        "Proteins": "\n14.5 ",
+        "Fats": "\n0.8 ",
+        "Ugl": "\n75.7 ",
+        "Kkal": "\n254 "
+    },
+    {
+        "Title": "Гейнер Muscletech Mass Tech Hardcore Pro",
+        "Proteins": "\n23.3 ",
+        "Fats": "\n1.5 ",
+        "Ugl": "\n68.3 ",
+        "Kkal": "\n379 "
+    },
+    {
+        "Title": "Гейнер Muscletech Mass Tech Performance",
+        "Proteins": "\n25.0 ",
+        "Fats": "\n3.5 ",
+        "Ugl": "\n69.0 ",
+        "Kkal": "\n392 "
+    },
+    {
+        "Title": "Гейнер Optimum Pro Complex Gainer",
+        "Proteins": "\n37.7 ",
+        "Fats": "\n5.0 ",
+        "Ugl": "\n53.5 ",
+        "Kkal": "\n409 "
+    },
+    {
+        "Title": "Гейнер Optimum Serious Mass",
+        "Proteins": "\n15.0 ",
+        "Fats": "\n1.0 ",
+        "Ugl": "\n76.0 ",
+        "Kkal": "\n374 "
+    },
+    {
+        "Title": "Гейнер Performance Amino Gainer",
+        "Proteins": "\n30.8 ",
+        "Fats": "\n4.2 ",
+        "Ugl": "\n51.7 ",
+        "Kkal": "\n362 "
+    },
+    {
+        "Title": "Гейнер Performance Turbo Mass Gainer",
+        "Proteins": "\n21.3 ",
+        "Fats": "\n2.6 ",
+        "Ugl": "\n62.9 ",
+        "Kkal": "\n360 "
+    },
+    {
+        "Title": "Гейнер Ultimate Iso Mass Xtreme Gainer",
+        "Proteins": "\n42.5 ",
+        "Fats": "\n4.6 ",
+        "Ugl": "\n52.3 ",
+        "Kkal": "\n425 "
+    },
+    {
+        "Title": "Гейнер Ultimate Magic Milk",
+        "Proteins": "\n42.7 ",
+        "Fats": "\n24.0 ",
+        "Ugl": "\n16.0 ",
+        "Kkal": "\n467 "
+    },
+    {
+        "Title": "Гейнер Ultimate Massive Whey Gainer",
+        "Proteins": "\n33.3 ",
+        "Fats": "\n2.4 ",
+        "Ugl": "\n56.4 ",
+        "Kkal": "\n381 "
+    },
+    {
+        "Title": "Гейнер Ultimate Muscle Juice 2544",
+        "Proteins": "\n22.0 ",
+        "Fats": "\n7.2 ",
+        "Ugl": "\n60.8 ",
+        "Kkal": "\n396 "
+    },
+    {
+        "Title": "Гейнер Ultimate Muscle Juice Revolution 2600",
+        "Proteins": "\n21.1 ",
+        "Fats": "\n5.3 ",
+        "Ugl": "\n64.2 ",
+        "Kkal": "\n385 "
+    },
+    {
+        "Title": "Джем Bombbar низкокалорийный груша-корица",
+        "Proteins": "\n0.5 ",
+        "Fats": "\n0.1 ",
+        "Ugl": "\n4.0 ",
+        "Kkal": "\n19 "
+    },
+    {
+        "Title": "Джем Bombbar низкокалорийный манго-банан",
+        "Proteins": "\n0.5 ",
+        "Fats": "\n0.1 ",
+        "Ugl": "\n4.0 ",
+        "Kkal": "\n19 "
+    },
+    {
+        "Title": "Завтрак сухой Geneticlab True Breakfast",
+        "Proteins": "\n50.0 ",
+        "Fats": "\n2.0 ",
+        "Ugl": "\n32.0 ",
+        "Kkal": "\n352 "
+    },
+    {
+        "Title": "Изолят горохового белка Bionova",
+        "Proteins": "\n81.7 ",
+        "Fats": "\n4.0 ",
+        "Ugl": "\n0.8 ",
+        "Kkal": "\n371 "
+    },
+    {
+        "Title": "Изолят соевого белка",
+        "Proteins": "\n90.1 ",
+        "Fats": "\n0.2 ",
+        "Ugl": "\n3.9 ",
+        "Kkal": "\n380 "
+    },
+    {
+        "Title": "Каша Dymatize Elite High Protein Granola",
+        "Proteins": "\n47.2 ",
+        "Fats": "\n3.5 ",
+        "Ugl": "\n40.3 ",
+        "Kkal": "\n368 "
+    },
+    {
+        "Title": "Каша Dymatize Elite High Protein Oatmeal",
+        "Proteins": "\n48.6 ",
+        "Fats": "\n3.5 ",
+        "Ugl": "\n34.7 ",
+        "Kkal": "\n361 "
+    }
+]

@@ -1,0 +1,562 @@
+[
+    {
+        "Title": "Сыворотка творожная",
+        "Proteins": "\n0.8 ",
+        "Fats": "\n0.2 ",
+        "Ugl": "\n3.5 ",
+        "Kkal": "\n20 "
+    },
+    {
+        "Title": "Сыр Almette с белыми грибами",
+        "Proteins": "\n6.0 ",
+        "Fats": "\n23.0 ",
+        "Ugl": "\n5.0 ",
+        "Kkal": "\n251 "
+    },
+    {
+        "Title": "Сыр Almette с зеленью",
+        "Proteins": "\n6.0 ",
+        "Fats": "\n20.0 ",
+        "Ugl": "\n3.0 ",
+        "Kkal": "\n216 "
+    },
+    {
+        "Title": "Сыр Almette с йогуртом",
+        "Proteins": "\n7.0 ",
+        "Fats": "\n15.0 ",
+        "Ugl": "\n5.0 ",
+        "Kkal": "\n183 "
+    },
+    {
+        "Title": "Сыр Almette с огурцами и зеленью",
+        "Proteins": "\n5.0 ",
+        "Fats": "\n20.0 ",
+        "Ugl": "\n3.0 ",
+        "Kkal": "\n212 "
+    },
+    {
+        "Title": "Сыр Almette с хреном",
+        "Proteins": "\n6.0 ",
+        "Fats": "\n20.0 ",
+        "Ugl": "\n4.0 ",
+        "Kkal": "\n220 "
+    },
+    {
+        "Title": "Сыр Almette с чесноком",
+        "Proteins": "\n6.0 ",
+        "Fats": "\n20.0 ",
+        "Ugl": "\n3.0 ",
+        "Kkal": "\n216 "
+    },
+    {
+        "Title": "Сыр Almette сливочный",
+        "Proteins": "\n6.0 ",
+        "Fats": "\n20.0 ",
+        "Ugl": "\n3.0 ",
+        "Kkal": "\n216 "
+    },
+    {
+        "Title": "Сыр Artis для жарки на сковороде и гриле 45%",
+        "Proteins": "\n21.0 ",
+        "Fats": "\n22.0 ",
+        "Ugl": "\n1.0 ",
+        "Kkal": "\n282 "
+    },
+    {
+        "Title": "Сыр Bogda Milk Эгейский свежий 45%",
+        "Proteins": "\n16.5 ",
+        "Fats": "\n18.0 ",
+        "Ugl": "\n0.0 ",
+        "Kkal": "\n228 "
+    },
+    {
+        "Title": "Сыр Bonfesto Cremolle вяленые томаты",
+        "Proteins": "\n6.8 ",
+        "Fats": "\n22.1 ",
+        "Ugl": "\n4.4 ",
+        "Kkal": "\n240 "
+    },
+    {
+        "Title": "Сыр Bonfesto Cremolle солёные огурцы",
+        "Proteins": "\n7.2 ",
+        "Fats": "\n22.4 ",
+        "Ugl": "\n2.1 ",
+        "Kkal": "\n240 "
+    },
+    {
+        "Title": "Сыр Bonfesto Mozzarella Pizza",
+        "Proteins": "\n18.4 ",
+        "Fats": "\n20.3 ",
+        "Ugl": "\n0.0 ",
+        "Kkal": "\n256 "
+    },
+    {
+        "Title": "Сыр Bonfesto Ricotta Light мягкий",
+        "Proteins": "\n11.3 ",
+        "Fats": "\n10.0 ",
+        "Ugl": "\n2.5 ",
+        "Kkal": "\n145 "
+    },
+    {
+        "Title": "Сыр Bonvida Моцарелла для пиццы",
+        "Proteins": "\n17.0 ",
+        "Fats": "\n16.8 ",
+        "Ugl": "\n3.0 ",
+        "Kkal": "\n231 "
+    },
+    {
+        "Title": "Сыр Brie Les Chateaux De France 32%",
+        "Proteins": "\n17.0 ",
+        "Fats": "\n32.0 ",
+        "Ugl": "\n2.0 ",
+        "Kkal": "\n364 "
+    },
+    {
+        "Title": "Сыр Comella рассольный",
+        "Proteins": "\n13.5 ",
+        "Fats": "\n13.3 ",
+        "Ugl": "\n5.0 ",
+        "Kkal": "\n194 "
+    },
+    {
+        "Title": "Сыр Danke Gouda Gold 45%",
+        "Proteins": "\n23.0 ",
+        "Fats": "\n24.0 ",
+        "Ugl": "\n0.0 ",
+        "Kkal": "\n308 "
+    },
+    {
+        "Title": "Сыр Danke Царский с ароматом топленого молока 45%",
+        "Proteins": "\n23.0 ",
+        "Fats": "\n24.0 ",
+        "Ugl": "\n0.0 ",
+        "Kkal": "\n308 "
+    },
+    {
+        "Title": "Сыр Dolce Granto Пармезан 40%",
+        "Proteins": "\n30.0 ",
+        "Fats": "\n28.0 ",
+        "Ugl": "\n0.0 ",
+        "Kkal": "\n372 "
+    },
+    {
+        "Title": "Сыр Emborg Professional творожный 65%",
+        "Proteins": "\n6.0 ",
+        "Fats": "\n28.3 ",
+        "Ugl": "\n3.0 ",
+        "Kkal": "\n290 "
+    },
+    {
+        "Title": "Сыр Endorf Tulyere",
+        "Proteins": "\n23.0 ",
+        "Fats": "\n25.0 ",
+        "Ugl": "\n0.0 ",
+        "Kkal": "\n320 "
+    },
+    {
+        "Title": "Сыр Exquisa творожный с зеленью",
+        "Proteins": "\n6.7 ",
+        "Fats": "\n22.0 ",
+        "Ugl": "\n3.0 ",
+        "Kkal": "\n237 "
+    },
+    {
+        "Title": "Сыр Exquisa творожный с лососем",
+        "Proteins": "\n6.7 ",
+        "Fats": "\n21.5 ",
+        "Ugl": "\n3.5 ",
+        "Kkal": "\n235 "
+    },
+    {
+        "Title": "Сыр Fallini Rapesan тёртый",
+        "Proteins": "\n49.5 ",
+        "Fats": "\n29.2 ",
+        "Ugl": "\n4.4 ",
+        "Kkal": "\n478 "
+    },
+    {
+        "Title": "Сыр Grill Akadia",
+        "Proteins": "\n17.0 ",
+        "Fats": "\n19.0 ",
+        "Ugl": "\n3.0 ",
+        "Kkal": "\n245 "
+    },
+    {
+        "Title": "Сыр Hochland Bleu",
+        "Proteins": "\n15.0 ",
+        "Fats": "\n39.0 ",
+        "Ugl": "\n1.0 ",
+        "Kkal": "\n415 "
+    },
+    {
+        "Title": "Сыр Hochland плавленый ассорти",
+        "Proteins": "\n10.0 ",
+        "Fats": "\n27.0 ",
+        "Ugl": "\n5.0 ",
+        "Kkal": "\n303 "
+    },
+    {
+        "Title": "Сыр Hochland плавленый Маасдам ломтики",
+        "Proteins": "\n12.0 ",
+        "Fats": "\n22.0 ",
+        "Ugl": "\n7.0 ",
+        "Kkal": "\n270 "
+    },
+    {
+        "Title": "Сыр Hochland плавленый с ветчиной ломтики",
+        "Proteins": "\n14.3 ",
+        "Fats": "\n23.2 ",
+        "Ugl": "\n4.2 ",
+        "Kkal": "\n282 "
+    },
+    {
+        "Title": "Сыр Hochland плавленый с огурцами и укропом ломтики",
+        "Proteins": "\n15.0 ",
+        "Fats": "\n21.0 ",
+        "Ugl": "\n5.0 ",
+        "Kkal": "\n269 "
+    },
+    {
+        "Title": "Сыр Hochland плавленый с салями и специями ломтики",
+        "Proteins": "\n13.0 ",
+        "Fats": "\n24.0 ",
+        "Ugl": "\n4.0 ",
+        "Kkal": "\n284 "
+    },
+    {
+        "Title": "Сыр Hochland плавленый Сэндвич ломтики",
+        "Proteins": "\n14.0 ",
+        "Fats": "\n23.0 ",
+        "Ugl": "\n4.0 ",
+        "Kkal": "\n279 "
+    },
+    {
+        "Title": "Сыр Hochland плавленый Чизбургер ломтики",
+        "Proteins": "\n14.0 ",
+        "Fats": "\n23.0 ",
+        "Ugl": "\n4.0 ",
+        "Kkal": "\n279 "
+    },
+    {
+        "Title": "Сыр Hochland творожный с зеленью",
+        "Proteins": "\n6.0 ",
+        "Fats": "\n20.0 ",
+        "Ugl": "\n2.0 ",
+        "Kkal": "\n212 "
+    },
+    {
+        "Title": "Сыр Hochland творожный сливочный",
+        "Proteins": "\n6.5 ",
+        "Fats": "\n22.7 ",
+        "Ugl": "\n3.6 ",
+        "Kkal": "\n245 "
+    },
+    {
+        "Title": "Сыр Hochland Фетакса Классическая в рассоле 45%",
+        "Proteins": "\n11.0 ",
+        "Fats": "\n14.5 ",
+        "Ugl": "\n2.0 ",
+        "Kkal": "\n183 "
+    },
+    {
+        "Title": "Сыр Laime Пармезан",
+        "Proteins": "\n35.0 ",
+        "Fats": "\n24.0 ",
+        "Ugl": "\n0.0 ",
+        "Kkal": "\n342 "
+    },
+    {
+        "Title": "Сыр Mlekovita Twarog Hanusi кисломолочный 6.5%",
+        "Proteins": "\n9.0 ",
+        "Fats": "\n6.5 ",
+        "Ugl": "\n4.0 ",
+        "Kkal": "\n111 "
+    },
+    {
+        "Title": "Сыр Molli творожный 27%",
+        "Proteins": "\n6.0 ",
+        "Fats": "\n27.0 ",
+        "Ugl": "\n3.0 ",
+        "Kkal": "\n306 "
+    },
+    {
+        "Title": "Сыр Mr.Chedd Чеддер Red 45%",
+        "Proteins": "\n24.8 ",
+        "Fats": "\n25.5 ",
+        "Ugl": "\n0.0 ",
+        "Kkal": "\n329 "
+    },
+    {
+        "Title": "Сыр Old Amsterdam",
+        "Proteins": "\n6.2 ",
+        "Fats": "\n39.0 ",
+        "Ugl": "\n0.0 ",
+        "Kkal": "\n407 "
+    },
+    {
+        "Title": "Сыр Pinar Labne мягкий",
+        "Proteins": "\n4.5 ",
+        "Fats": "\n18.0 ",
+        "Ugl": "\n3.6 ",
+        "Kkal": "\n194 "
+    },
+    {
+        "Title": "Сыр Premier of Taste мягкий с зеленью и огурчиком",
+        "Proteins": "\n4.4 ",
+        "Fats": "\n16.9 ",
+        "Ugl": "\n2.8 ",
+        "Kkal": "\n182 "
+    },
+    {
+        "Title": "Сыр President Cream Cheese сливочный творожный",
+        "Proteins": "\n5.5 ",
+        "Fats": "\n24.0 ",
+        "Ugl": "\n2.7 ",
+        "Kkal": "\n249 "
+    },
+    {
+        "Title": "Сыр President Creme de Bleu 50%",
+        "Proteins": "\n12.0 ",
+        "Fats": "\n22.0 ",
+        "Ugl": "\n3.5 ",
+        "Kkal": "\n260 "
+    },
+    {
+        "Title": "Сыр President Rondele козий",
+        "Proteins": "\n9.0 ",
+        "Fats": "\n10.5 ",
+        "Ugl": "\n4.0 ",
+        "Kkal": "\n354 "
+    },
+    {
+        "Title": "Сыр President Rondele творожный",
+        "Proteins": "\n7.0 ",
+        "Fats": "\n31.0 ",
+        "Ugl": "\n2.5 ",
+        "Kkal": "\n317 "
+    },
+    {
+        "Title": "Сыр President Rondele творожный с орехами",
+        "Proteins": "\n6.5 ",
+        "Fats": "\n31.0 ",
+        "Ugl": "\n2.5 ",
+        "Kkal": "\n315 "
+    },
+    {
+        "Title": "Сыр President Rondele творожный с чесноком и травами",
+        "Proteins": "\n6.8 ",
+        "Fats": "\n31.2 ",
+        "Ugl": "\n4.2 ",
+        "Kkal": "\n325 "
+    },
+    {
+        "Title": "Сыр President Мастер Бутерброда Лёгкий",
+        "Proteins": "\n16.5 ",
+        "Fats": "\n8.5 ",
+        "Ugl": "\n9.5 ",
+        "Kkal": "\n185 "
+    },
+    {
+        "Title": "Сыр President Мастер Бутерброда Мааздам",
+        "Proteins": "\n13.5 ",
+        "Fats": "\n17.5 ",
+        "Ugl": "\n6.0 ",
+        "Kkal": "\n240 "
+    },
+    {
+        "Title": "Сыр President Мастер Бутерброда Моцарелла",
+        "Proteins": "\n9.0 ",
+        "Fats": "\n20.0 ",
+        "Ugl": "\n6.5 ",
+        "Kkal": "\n281 "
+    },
+    {
+        "Title": "Сыр President Пише Миньон",
+        "Proteins": "\n18.0 ",
+        "Fats": "\n28.0 ",
+        "Ugl": "\n1.0 ",
+        "Kkal": "\n324 "
+    },
+    {
+        "Title": "Сыр Unagrande Dolce Рикотта с натуральным шоколадом",
+        "Proteins": "\n4.9 ",
+        "Fats": "\n12.9 ",
+        "Ugl": "\n23.1 ",
+        "Kkal": "\n228 "
+    },
+    {
+        "Title": "Сыр Unagrande Кремчиз №1",
+        "Proteins": "\n8.5 ",
+        "Fats": "\n24.5 ",
+        "Ugl": "\n0.0 ",
+        "Kkal": "\n255 "
+    },
+    {
+        "Title": "Сыр Valio Polar 5%",
+        "Proteins": "\n34.0 ",
+        "Fats": "\n5.0 ",
+        "Ugl": "\n0.0 ",
+        "Kkal": "\n180 "
+    },
+    {
+        "Title": "Сыр Valio творожный Рассыпчатый 2%",
+        "Proteins": "\n13.0 ",
+        "Fats": "\n2.0 ",
+        "Ugl": "\n2.0 ",
+        "Kkal": "\n80 "
+    },
+    {
+        "Title": "Сыр Valio творожный Сливочный",
+        "Proteins": "\n5.2 ",
+        "Fats": "\n23.5 ",
+        "Ugl": "\n2.3 ",
+        "Kkal": "\n240 "
+    },
+    {
+        "Title": "Сыр Vego Вегано-Грана-Падано с перцем",
+        "Proteins": "\n1.2 ",
+        "Fats": "\n35.0 ",
+        "Ugl": "\n25.0 ",
+        "Kkal": "\n325 "
+    },
+    {
+        "Title": "Сыр Viola ассорти Финское избранное 50%",
+        "Proteins": "\n10.0 ",
+        "Fats": "\n20.0 ",
+        "Ugl": "\n6.0 ",
+        "Kkal": "\n244 "
+    },
+    {
+        "Title": "Сыр Viola с ветчиной",
+        "Proteins": "\n11.0 ",
+        "Fats": "\n28.0  ",
+        "Ugl": "\n2.0 ",
+        "Kkal": "\n305 "
+    },
+    {
+        "Title": "Сыр Viola с лисичками",
+        "Proteins": "\n11.0 ",
+        "Fats": "\n28.0 ",
+        "Ugl": "\n2.0 ",
+        "Kkal": "\n305 "
+    },
+    {
+        "Title": "Сыр Viola с паприкой",
+        "Proteins": "\n11.0 ",
+        "Fats": "\n28.0 ",
+        "Ugl": "\n2.0 ",
+        "Kkal": "\n305 "
+    },
+    {
+        "Title": "Сыр Viola с укропом и огурцом",
+        "Proteins": "\n11.0 ",
+        "Fats": "\n28.0 ",
+        "Ugl": "\n2.0 ",
+        "Kkal": "\n305 "
+    },
+    {
+        "Title": "Сыр Viola сливочный",
+        "Proteins": "\n11.0 ",
+        "Fats": "\n28.0 ",
+        "Ugl": "\n2.0 ",
+        "Kkal": "\n305 "
+    },
+    {
+        "Title": "Сыр Vitalat Рикотта",
+        "Proteins": "\n7.0 ",
+        "Fats": "\n6.0 ",
+        "Ugl": "\n0.0 ",
+        "Kkal": "\n97 "
+    },
+    {
+        "Title": "Сыр VolkoMolko веганский Плавящийся",
+        "Proteins": "\n13.0 ",
+        "Fats": "\n35.0 ",
+        "Ugl": "\n16.0 ",
+        "Kkal": "\n429 "
+    },
+    {
+        "Title": "Сыр а ла Каймак Mlekara Sabac мягкий 70%",
+        "Proteins": "\n6.1 ",
+        "Fats": "\n23.5 ",
+        "Ugl": "\n1.1 ",
+        "Kkal": "\n242 "
+    },
+    {
+        "Title": "Сыр а ла Каймак мягкий 70%",
+        "Proteins": "\n6.1 ",
+        "Fats": "\n23.5 ",
+        "Ugl": "\n1.1 ",
+        "Kkal": "\n242 "
+    },
+    {
+        "Title": "Сыр Абонданс",
+        "Proteins": "\n26.3 ",
+        "Fats": "\n26.6 ",
+        "Ugl": "\n0.0 ",
+        "Kkal": "\n350 "
+    },
+    {
+        "Title": "Сыр Адыгейский",
+        "Proteins": "\n18.5 ",
+        "Fats": "\n14.0 ",
+        "Ugl": "\n0.0 ",
+        "Kkal": "\n240 "
+    },
+    {
+        "Title": "Сыр Алтайский",
+        "Proteins": "\n26.0 ",
+        "Fats": "\n26.5 ",
+        "Ugl": "\n3.5 ",
+        "Kkal": "\n356 "
+    },
+    {
+        "Title": "Сыр Альпийский",
+        "Proteins": "\n25.0 ",
+        "Fats": "\n27.0 ",
+        "Ugl": "\n0.0 ",
+        "Kkal": "\n353 "
+    },
+    {
+        "Title": "Сыр Амадеус",
+        "Proteins": "\n28.6 ",
+        "Fats": "\n29.3 ",
+        "Ugl": "\n0.1 ",
+        "Kkal": "\n275 "
+    },
+    {
+        "Title": "Сыр Амбер",
+        "Proteins": "\n31.0 ",
+        "Fats": "\n10.0 ",
+        "Ugl": "\n10.0 ",
+        "Kkal": "\n220 "
+    },
+    {
+        "Title": "Сыр Анари",
+        "Proteins": "\n11.0 ",
+        "Fats": "\n15.0 ",
+        "Ugl": "\n2.0 ",
+        "Kkal": "\n195 "
+    },
+    {
+        "Title": "Сыр Аппенцеллер",
+        "Proteins": "\n24.7 ",
+        "Fats": "\n31.7 ",
+        "Ugl": "\n2.0 ",
+        "Kkal": "\n403 "
+    },
+    {
+        "Title": "Сыр Арла Chef Bake'n'Roll крем сливочный 25%",
+        "Proteins": "\n6.3 ",
+        "Fats": "\n25.0 ",
+        "Ugl": "\n5.4 ",
+        "Kkal": "\n272 "
+    },
+    {
+        "Title": "Сыр Арла Буко",
+        "Proteins": "\n8.5 ",
+        "Fats": "\n17.0 ",
+        "Ugl": "\n3.0 ",
+        "Kkal": "\n200 "
+    }
+]

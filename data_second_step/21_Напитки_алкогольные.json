@@ -1,0 +1,562 @@
+[
+    {
+        "Title": "Абсент",
+        "Proteins": "\n0.0 ",
+        "Fats": "\n0.0 ",
+        "Ugl": "\n8.8 ",
+        "Kkal": "\n171 "
+    },
+    {
+        "Title": "Бренди",
+        "Proteins": "\n0.0 ",
+        "Fats": "\n0.0 ",
+        "Ugl": "\n0.5 ",
+        "Kkal": "\n225 "
+    },
+    {
+        "Title": "Бурбон",
+        "Proteins": "\n0.0 ",
+        "Fats": "\n0.0 ",
+        "Ugl": "\n0.4 ",
+        "Kkal": "\n235 "
+    },
+    {
+        "Title": "Вермут",
+        "Proteins": "\n0.0 ",
+        "Fats": "\n0.0 ",
+        "Ugl": "\n15.9 ",
+        "Kkal": "\n 158 "
+    },
+    {
+        "Title": "Вермут Cinzano Bianco белый",
+        "Proteins": "\n0.0 ",
+        "Fats": "\n0.0 ",
+        "Ugl": "\n18.0 ",
+        "Kkal": "\n155 "
+    },
+    {
+        "Title": "Вермут Cinzano Rose розовый",
+        "Proteins": "\n0.0 ",
+        "Fats": "\n0.0 ",
+        "Ugl": "\n14.5 ",
+        "Kkal": "\n141 "
+    },
+    {
+        "Title": "Вермут Martini",
+        "Proteins": "\n0.0 ",
+        "Fats": "\n0.0 ",
+        "Ugl": "\n17.0 ",
+        "Kkal": "\n145 "
+    },
+    {
+        "Title": "Вермут Martini Bianco белый",
+        "Proteins": "\n0.0 ",
+        "Fats": "\n0.0 ",
+        "Ugl": "\n17.0 ",
+        "Kkal": "\n145 "
+    },
+    {
+        "Title": "Вермут Martini Extra Dry сухой",
+        "Proteins": "\n0.0 ",
+        "Fats": "\n0.0 ",
+        "Ugl": "\n2.5 ",
+        "Kkal": "\n110 "
+    },
+    {
+        "Title": "Вермут Martini Rose розовый",
+        "Proteins": "\n0.0 ",
+        "Fats": "\n0.0 ",
+        "Ugl": "\n16.0 ",
+        "Kkal": "\n140 "
+    },
+    {
+        "Title": "Вермут Martini Rosso красный",
+        "Proteins": "\n0.0 ",
+        "Fats": "\n0.0 ",
+        "Ugl": "\n15.0 ",
+        "Kkal": "\n138 "
+    },
+    {
+        "Title": "Вермут Perlino Bianco белый",
+        "Proteins": "\n0.0 ",
+        "Fats": "\n0.0 ",
+        "Ugl": "\n14.0 ",
+        "Kkal": "\n139 "
+    },
+    {
+        "Title": "Вермут Perlino Rosso красный",
+        "Proteins": "\n0.0 ",
+        "Fats": "\n0.0 ",
+        "Ugl": "\n14.0 ",
+        "Kkal": "\n139 "
+    },
+    {
+        "Title": "Вино Asti Mondoro белое полусладкое игристое",
+        "Proteins": "\n0.0 ",
+        "Fats": "\n0.0 ",
+        "Ugl": "\n9.0 ",
+        "Kkal": "\n78 "
+    },
+    {
+        "Title": "Вино Riunite D'Oro белое полусладкое игристое",
+        "Proteins": "\n0.0 ",
+        "Fats": "\n0.0 ",
+        "Ugl": "\n6.0 ",
+        "Kkal": "\n69 "
+    },
+    {
+        "Title": "Вино Riunite Lambrusco Emilia красное полусладкое игристое",
+        "Proteins": "\n0.0 ",
+        "Fats": "\n0.0 ",
+        "Ugl": "\n6.0 ",
+        "Kkal": "\n69 "
+    },
+    {
+        "Title": "Вино Riunite Lambrusco Rose розовое полусладкое игристое",
+        "Proteins": "\n0.0 ",
+        "Fats": "\n0.0 ",
+        "Ugl": "\n6.0 ",
+        "Kkal": "\n69 "
+    },
+    {
+        "Title": "Вино белое десертное 16%",
+        "Proteins": "\n0.5 ",
+        "Fats": "\n0.0 ",
+        "Ugl": "\n16.0 ",
+        "Kkal": "\n153 "
+    },
+    {
+        "Title": "Вино белое Мускат",
+        "Proteins": "\n0.0 ",
+        "Fats": "\n0.0 ",
+        "Ugl": "\n5.0 ",
+        "Kkal": "\n82 "
+    },
+    {
+        "Title": "Вино белое Рислинг",
+        "Proteins": "\n0.0 ",
+        "Fats": "\n0.0 ",
+        "Ugl": "\n4.0 ",
+        "Kkal": "\n80 "
+    },
+    {
+        "Title": "Вино белое Совиньон",
+        "Proteins": "\n0.0 ",
+        "Fats": "\n0.0 ",
+        "Ugl": "\n2.0 ",
+        "Kkal": "\n81 "
+    },
+    {
+        "Title": "Вино белое столовое 11%",
+        "Proteins": "\n0.2 ",
+        "Fats": "\n0.0 ",
+        "Ugl": "\n0.2 ",
+        "Kkal": "\n65 "
+    },
+    {
+        "Title": "Вино белое сухое",
+        "Proteins": "\n0.1 ",
+        "Fats": "\n0.0 ",
+        "Ugl": "\n0.6 ",
+        "Kkal": "\n66 "
+    },
+    {
+        "Title": "Вино белое Херес",
+        "Proteins": "\n0.0 ",
+        "Fats": "\n0.0 ",
+        "Ugl": "\n3.0 ",
+        "Kkal": "\n126 "
+    },
+    {
+        "Title": "Вино красное Божоле Нуво",
+        "Proteins": "\n2.5 ",
+        "Fats": "\n0.0 ",
+        "Ugl": "\n0.0 ",
+        "Kkal": "\n95 "
+    },
+    {
+        "Title": "Вино красное Бургундское",
+        "Proteins": "\n0.0 ",
+        "Fats": "\n0.0 ",
+        "Ugl": "\n4.0 ",
+        "Kkal": "\n86 "
+    },
+    {
+        "Title": "Вино красное десертное",
+        "Proteins": "\n0.5 ",
+        "Fats": "\n0.0 ",
+        "Ugl": "\n20.0 ",
+        "Kkal": "\n172 "
+    },
+    {
+        "Title": "Вино красное Кагор",
+        "Proteins": "\n0.0 ",
+        "Fats": "\n0.0 ",
+        "Ugl": "\n16.0 ",
+        "Kkal": "\n147 "
+    },
+    {
+        "Title": "Вино красное Киндзмараули",
+        "Proteins": "\n0.5 ",
+        "Fats": "\n0.0 ",
+        "Ugl": "\n20.0 ",
+        "Kkal": "\n172 "
+    },
+    {
+        "Title": "Вино красное Кьянти",
+        "Proteins": "\n0.1 ",
+        "Fats": "\n0.0 ",
+        "Ugl": "\n2.7 ",
+        "Kkal": "\n84 "
+    },
+    {
+        "Title": "Вино красное столовое 12%",
+        "Proteins": "\n0.3 ",
+        "Fats": "\n0.0 ",
+        "Ugl": "\n0.2 ",
+        "Kkal": "\n71 "
+    },
+    {
+        "Title": "Вино красное сухое",
+        "Proteins": "\n0.2 ",
+        "Fats": "\n0.0 ",
+        "Ugl": "\n0.3 ",
+        "Kkal": "\n68 "
+    },
+    {
+        "Title": "Вино красное Хванчкара",
+        "Proteins": "\n0.1 ",
+        "Fats": "\n0.0 ",
+        "Ugl": "\n3.0 ",
+        "Kkal": "\n83 "
+    },
+    {
+        "Title": "Вино медовое",
+        "Proteins": "\n0.0 ",
+        "Fats": "\n0.0 ",
+        "Ugl": "\n21.3 ",
+        "Kkal": "\n71 "
+    },
+    {
+        "Title": "Виски",
+        "Proteins": "\n0.0 ",
+        "Fats": "\n0.0 ",
+        "Ugl": "\n0.4 ",
+        "Kkal": "\n235 "
+    },
+    {
+        "Title": "Водка",
+        "Proteins": "\n0.0 ",
+        "Fats": "\n0.0 ",
+        "Ugl": "\n0.1 ",
+        "Kkal": "\n235 "
+    },
+    {
+        "Title": "Водка анисовая",
+        "Proteins": "\n0.1 ",
+        "Fats": "\n0.1 ",
+        "Ugl": "\n0.5 ",
+        "Kkal": "\n225 "
+    },
+    {
+        "Title": "Глинтвейн August Weinxof",
+        "Proteins": "\n0.0 ",
+        "Fats": "\n0.0 ",
+        "Ugl": "\n7.5 ",
+        "Kkal": "\n85 "
+    },
+    {
+        "Title": "Глинтвейн St Lorenz",
+        "Proteins": "\n0.0 ",
+        "Fats": "\n0.0 ",
+        "Ugl": "\n8.0 ",
+        "Kkal": "\n80 "
+    },
+    {
+        "Title": "Грог",
+        "Proteins": "\n0.0 ",
+        "Fats": "\n0.0 ",
+        "Ugl": "\n0.0 ",
+        "Kkal": "\n220 "
+    },
+    {
+        "Title": "Джин",
+        "Proteins": "\n0.0 ",
+        "Fats": "\n0.0 ",
+        "Ugl": "\n0.0 ",
+        "Kkal": "\n220 "
+    },
+    {
+        "Title": "Джин-тоник",
+        "Proteins": "\n0.0 ",
+        "Fats": "\n0.0 ",
+        "Ugl": "\n6.7 ",
+        "Kkal": "\n78 "
+    },
+    {
+        "Title": "Коктейль Кровавая Мэри",
+        "Proteins": "\n0.8 ",
+        "Fats": "\n0.3 ",
+        "Ugl": "\n4.8 ",
+        "Kkal": "\n60 "
+    },
+    {
+        "Title": "Коктейль Мохито",
+        "Proteins": "\n0.0 ",
+        "Fats": "\n0.0 ",
+        "Ugl": "\n17.0 ",
+        "Kkal": "\n74 "
+    },
+    {
+        "Title": "Коктейль Пина Колада",
+        "Proteins": "\n0.4 ",
+        "Fats": "\n1.8 ",
+        "Ugl": "\n22.4  ",
+        "Kkal": "\n174 "
+    },
+    {
+        "Title": "Коктейль Эгг-ног",
+        "Proteins": "\n5.5 ",
+        "Fats": "\n0.1 ",
+        "Ugl": "\n0.4 ",
+        "Kkal": "\n27 "
+    },
+    {
+        "Title": "Коньяк",
+        "Proteins": "\n0.0 ",
+        "Fats": "\n0.0 ",
+        "Ugl": "\n0.1 ",
+        "Kkal": "\n239 "
+    },
+    {
+        "Title": "Ликёр Amaretto",
+        "Proteins": "\n0.0 ",
+        "Fats": "\n0.0 ",
+        "Ugl": "\n35.0 ",
+        "Kkal": "\n280 "
+    },
+    {
+        "Title": "Ликёр Amarula",
+        "Proteins": "\n3.0 ",
+        "Fats": "\n13.0 ",
+        "Ugl": "\n25.0 ",
+        "Kkal": "\n327 "
+    },
+    {
+        "Title": "Ликёр Baileys",
+        "Proteins": "\n3.0 ",
+        "Fats": "\n13.0 ",
+        "Ugl": "\n25.0 ",
+        "Kkal": "\n327 "
+    },
+    {
+        "Title": "Ликёр Becherovka",
+        "Proteins": "\n0.0 ",
+        "Fats": "\n0.0 ",
+        "Ugl": "\n6.4 ",
+        "Kkal": "\n248 "
+    },
+    {
+        "Title": "Ликёр Blue Curacao",
+        "Proteins": "\n0.0 ",
+        "Fats": "\n0.0 ",
+        "Ugl": "\n46.0 ",
+        "Kkal": "\n236 "
+    },
+    {
+        "Title": "Ликёр Brogans",
+        "Proteins": "\n2.7 ",
+        "Fats": "\n7.3 ",
+        "Ugl": "\n32.7 ",
+        "Kkal": "\n241 "
+    },
+    {
+        "Title": "Ликёр Campari",
+        "Proteins": "\n0.0 ",
+        "Fats": "\n0.0 ",
+        "Ugl": "\n12.0 ",
+        "Kkal": "\n112 "
+    },
+    {
+        "Title": "Ликёр Cointreau",
+        "Proteins": "\n0.0 ",
+        "Fats": "\n0.0 ",
+        "Ugl": "\n20.0 ",
+        "Kkal": "\n197 "
+    },
+    {
+        "Title": "Ликёр Don Amaretto Milano",
+        "Proteins": "\n0.0 ",
+        "Fats": "\n0.0 ",
+        "Ugl": "\n35.0 ",
+        "Kkal": "\n280 "
+    },
+    {
+        "Title": "Ликёр Drambuie",
+        "Proteins": "\n0.0 ",
+        "Fats": "\n0.0 ",
+        "Ugl": "\n40.0 ",
+        "Kkal": "\n299 "
+    },
+    {
+        "Title": "Ликёр Frangelico",
+        "Proteins": "\n0.0 ",
+        "Fats": "\n0.7 ",
+        "Ugl": "\n19.0 ",
+        "Kkal": "\n63 "
+    },
+    {
+        "Title": "Ликёр Galliano",
+        "Proteins": "\n0.0 ",
+        "Fats": "\n0.0 ",
+        "Ugl": "\n6.4 ",
+        "Kkal": "\n248 "
+    },
+    {
+        "Title": "Ликер Grand Marnier",
+        "Proteins": "\n0.0 ",
+        "Fats": "\n0.0 ",
+        "Ugl": "\n20.0 ",
+        "Kkal": "\n197 "
+    },
+    {
+        "Title": "Ликёр Irish Mist",
+        "Proteins": "\n0.0 ",
+        "Fats": "\n0.0 ",
+        "Ugl": "\n6.4 ",
+        "Kkal": "\n248 "
+    },
+    {
+        "Title": "Ликёр Jagermeister",
+        "Proteins": "\n0.0 ",
+        "Fats": "\n0.0 ",
+        "Ugl": "\n13.2 ",
+        "Kkal": "\n246 "
+    },
+    {
+        "Title": "Ликёр Kahlua",
+        "Proteins": "\n0.6 ",
+        "Fats": "\n0.7 ",
+        "Ugl": "\n41.7 ",
+        "Kkal": "\n291 "
+    },
+    {
+        "Title": "Ликёр Limoncello",
+        "Proteins": "\n0.0 ",
+        "Fats": "\n0.0 ",
+        "Ugl": "\n30.0 ",
+        "Kkal": "\n325 "
+    },
+    {
+        "Title": "Ликёр Malibu",
+        "Proteins": "\n0.0 ",
+        "Fats": "\n0.0 ",
+        "Ugl": "\n20.0 ",
+        "Kkal": "\n197 "
+    },
+    {
+        "Title": "Ликёр Maraschino",
+        "Proteins": "\n0.0 ",
+        "Fats": "\n0.0 ",
+        "Ugl": "\n40.0 ",
+        "Kkal": "\n299 "
+    },
+    {
+        "Title": "Ликёр Midori",
+        "Proteins": "\n0.0 ",
+        "Fats": "\n0.0 ",
+        "Ugl": "\n39.0 ",
+        "Kkal": "\n140 "
+    },
+    {
+        "Title": "Ликёр Mozart",
+        "Proteins": "\n1.2 ",
+        "Fats": "\n7.8 ",
+        "Ugl": "\n34.0 ",
+        "Kkal": "\n332 "
+    },
+    {
+        "Title": "Ликёр Sambuca",
+        "Proteins": "\n0.0 ",
+        "Fats": "\n0.0 ",
+        "Ugl": "\n40.0 ",
+        "Kkal": "\n240 "
+    },
+    {
+        "Title": "Ликёр Sheridans",
+        "Proteins": "\n1.4 ",
+        "Fats": "\n7.0 ",
+        "Ugl": "\n39.0 ",
+        "Kkal": "\n315 "
+    },
+    {
+        "Title": "Ликёр Southern Comfort",
+        "Proteins": "\n0.0 ",
+        "Fats": "\n0.0 ",
+        "Ugl": "\n31.0 ",
+        "Kkal": "\n112 "
+    },
+    {
+        "Title": "Ликёр Vana Tallinn",
+        "Proteins": "\n0.0 ",
+        "Fats": "\n0.0 ",
+        "Ugl": "\n39.0 ",
+        "Kkal": "\n140 "
+    },
+    {
+        "Title": "Ликёр Wild Africa",
+        "Proteins": "\n2.7 ",
+        "Fats": "\n7.3 ",
+        "Ugl": "\n32.6 ",
+        "Kkal": "\n241 "
+    },
+    {
+        "Title": "Ликёр Xuxu",
+        "Proteins": "\n0.0 ",
+        "Fats": "\n0.0 ",
+        "Ugl": "\n29.0 ",
+        "Kkal": "\n166 "
+    },
+    {
+        "Title": "Мятная настойка",
+        "Proteins": "\n0.0 ",
+        "Fats": "\n0.0 ",
+        "Ugl": "\n6.4 ",
+        "Kkal": "\n250 "
+    },
+    {
+        "Title": "Пиво Asahi Super Dry",
+        "Proteins": "\n0.0 ",
+        "Fats": "\n0.0 ",
+        "Ugl": "\n3.1 ",
+        "Kkal": "\n41 "
+    },
+    {
+        "Title": "Пиво BagBier",
+        "Proteins": "\n0.0 ",
+        "Fats": "\n0.0 ",
+        "Ugl": "\n4.6 ",
+        "Kkal": "\n42 "
+    },
+    {
+        "Title": "Пиво Bavaria Premium Pilsener",
+        "Proteins": "\n0.0 ",
+        "Fats": "\n0.0 ",
+        "Ugl": "\n3.8 ",
+        "Kkal": "\n42 "
+    },
+    {
+        "Title": "Пиво Bernard Černe",
+        "Proteins": "\n0.0 ",
+        "Fats": "\n0.0 ",
+        "Ugl": "\n4.7 ",
+        "Kkal": "\n48 "
+    },
+    {
+        "Title": "Пиво Budweiser Budvar Original",
+        "Proteins": "\n0.0 ",
+        "Fats": "\n0.0 ",
+        "Ugl": "\n3.0 ",
+        "Kkal": "\n44 "
+    }
+]
