@@ -1,0 +1,20 @@
+[
+    {
+        "book_title": "Пропавшее волшебство",
+        "book-author": "Брандт Ина",
+        "book_publisher": "Качели:Совиная магия",
+        "book_price_new": 122,
+        "book_price_old": 816,
+        "delta_price": -85,
+        "book_in_place": "На складе "
+    },
+    {
+        "book_title": "\"Азбука\"",
+        "book-author": "Непомнящий Леонид Михайлович",
+        "book_publisher": "Детская литература:Веселые уроки",
+        "book_price_new": 138,
+        "book_price_old": 922,
+        "delta_price": -85,
+        "book_in_place": "На складе "
+    }
+]
